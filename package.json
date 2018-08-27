@@ -1,5 +1,5 @@
 {
-  "name": "@ionic-native2/web-view-color",
+  "name": "@ionic-native/web-view-color",
   "version": "4.7.0",
   "description": "Ionic Native - Native plugins for ionic apps",
   "module": "index.js",
